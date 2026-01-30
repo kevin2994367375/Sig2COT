@@ -1,1 +1,1 @@
-# Sig2COT
+# DiagAgent
